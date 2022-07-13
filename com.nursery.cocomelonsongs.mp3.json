@@ -26,9 +26,9 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
-"PENGATURAN_IKLAN_BANNER" : "APPLOVIN",
-"PENGATURAN_IKLAN_INTER" : "APPLOVIN",
-"PENGATURAN_IKLAN_NATIVE" : "APPLOVIN",
+"PENGATURAN_IKLAN_BANNER" : "UNITY",
+"PENGATURAN_IKLAN_INTER" : "UNITY",
+"PENGATURAN_IKLAN_NATIVE" : "UNITY",
 
 "INTER_COUNT" : "2",
 
@@ -59,9 +59,9 @@
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"UNITY_BANNER" : "",
-"UNITY_INTERSTITIAL" : "",
-"UNITY_GAME_ID" : "",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4838051",
 
 "APPLOVIN_BANNER_MAX_ID" : "fdca7116afac42cb",
 "APPLOVIN_INTERSTITIAL_MAX_ID" : "5b51d4e8fd5b089d",
