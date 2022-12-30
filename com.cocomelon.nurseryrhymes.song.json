@@ -1,0 +1,93 @@
+{
+"redirect" : {
+
+// untuk merubah menjadi mode mp3 - panggil link ini via offline / json - "file:///android_asset/music/playlist.html"
+// pastikan mode offline mp3 true jika merubah ke mode mp3
+// https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
+
+"HOMEURL" : "file:///android_asset/music/playlist.html",
+
+// testing server json yang dipakai
+"JSON_POPUP_WAIT" : "Server Ready Wait a Second...",
+
+// Redirect ke apps lain 
+"REDIRECT_TRAFFIC" : false,
+"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
+
+// main ads ke backup ads 
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
+
+//     mode pengaturan iklan
+//     Mode ADMOB       Admob backup Unity Backup Startapp
+//     Mode FAN         FAN backup Unity Backup Startapp
+//     Mode APPODEAL    Appodeal backup Unity Backup Startapp
+//     Mode UNITY       Unity backup Startapp
+//     Mode APPLOVIN    Applovin backup Unity Backup Startapp
+//     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
+"PENGATURAN_IKLAN_BANNER" : "UNITY",
+"PENGATURAN_IKLAN_INTER" : "UNITY",
+"PENGATURAN_IKLAN_NATIVE" : "UNITY",
+
+"INTER_COUNT" : "2",
+
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : true,
+
+"ADS_ON_EXIT_DIALOG" : true, // WARNING - CTR MENINGKAT
+
+"MODE_OFFLINE_MP3" : true,
+"ENABLE_STICKY_NOTIFICATION" : false,
+
+"STARTAPPID" : "211219207",
+
+"ADMOB_BANNER" : "",
+"ADMOB_INTER" : "",
+"ADMOB_NATIV" : "",
+
+"HPK_ALIENDROID" : "trading",
+"HPK_ADMOB1" : "cloud hosting",
+"HPK_ADMOB2" : "credit card",
+"HPK_ADMOB3" : "university",
+"HPK_ADMOB4" : "degree",
+"HPK_ADMOB5" : "insurance",
+
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "5097987",
+
+"APPLOVIN_BANNER_MAX_ID" : "",
+"APPLOVIN_INTERSTITIAL_MAX_ID" : "",
+
+"BUTTON_START" : "START",
+"BUTTON_SHARE" : "SHARE TO FRIEND",
+"BUTTON_RATING" : "RATING NOW",
+
+"EXIT_POPUP_DIALOG" : "
+Please help give us a 5 star rating, so we keep the spirit of providing the latest updates :)
+",
+"RATE_BUTTON" : "Rate 5 Stars",
+"LATER_BUTTON" : "Rate Later",
+"ENABLE_SHARE_BUTTON" : true,
+"SHARE_TXT" : "
+This app is awesome 
+
+You need try to donwload this app
+I.ve download and so much happy
+
+",
+
+"MORE_BUTTON" : "Share Via WhatsApp",
+// Jika share button TRUE maka tombol MORE berubah SHARE
+// isi url more apps jika ENABLE_SHARE_BUTTON  is false
+"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=devname"
+
+ }
+}
