@@ -1,7 +1,7 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Wait",
+"JSON_POPUP_WAIT" : "Please Wait Server Ready",
 
 "TOAST_NOTIF" : false,
 
@@ -30,8 +30,8 @@
 "ENABLE_STRAP_SPLAHSCREEN" : true,
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-8799012864784801/8901748291",
+"ADMOB_INTER" : "ca-app-pub-8799012864784801/6411316320",
 
 "HPK_ALIENDROID" : "cloud hosting",
 "HPK_ADMOB1" : "university",
@@ -42,10 +42,10 @@
 
 "UNITY_BANNER" : "Banner_Android",
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
-"UNITY_GAME_ID" : "",
+"UNITY_GAME_ID" : "5150777",
 "UNITY_TEST_MODE" : false,
 
-"STARAPPID" : "",
+"STARAPPID" : "208510769",
 
 "APPLOVIN_BANNER_ID" : "",
 "APPLOVIN_INTERSTITIAL_ID" : "",
@@ -61,7 +61,7 @@
 "BUTTON_START" : "START",
 
 "EXIT_POPUP_DIALOG" : "
-Please give us a 5 stars rating, so we keep the spirit of providing the latest updates, Thankyou :)
+Please give us a 5 stars rating, so we keep the spirit of providing the latest updates :)
 
 ",
 "RATE_BUTTON" : "RATE 5 STARS",
