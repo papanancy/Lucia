@@ -20,9 +20,9 @@
 //     * Untuk Native akan terganti menjadi banner jika tanpa id 
 
 
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
-"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
+"PENGATURAN_IKLAN_BANNER" : "admob",
+"PENGATURAN_IKLAN_INTER" : "admob",
+"PENGATURAN_IKLAN_NATIVE" : "admob",
 
 "INTERS_COUNT_WEB" : 2,
 
