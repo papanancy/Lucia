@@ -27,8 +27,8 @@
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
 "PENGATURAN_IKLAN_BANNER" : "UNITY",
-"PENGATURAN_IKLAN_INTER" : "UNITY",
-"PENGATURAN_IKLAN_NATIVE" : "UNITY",
+"PENGATURAN_IKLAN_INTER" : "APPLOVIN",
+"PENGATURAN_IKLAN_NATIVE" : "APPLOVIN",
 
 "INTER_COUNT" : "2",
 
